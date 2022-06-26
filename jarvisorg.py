@@ -217,11 +217,6 @@ if __name__ == "__main__":
             pyautogui.keyUp("alt")
 
         
-        if "secret message" in query:
-            speak("There is a secret message for you Rashi mam")
-            kit.playonyt(f"tujhme rab dikhta hai")
-
-        
 
 
         speak("sir do you have any more work for me")
